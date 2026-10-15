@@ -69,11 +69,7 @@ Mobile application project.
 ### 🌐 [Personal Portfolio](https://hmirinsalma.github.io/Portfolio/)
 Explore my portfolio, background and projects.
 
-## 📊 GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hmirinsalma&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics"/>
-</p>
 
 ---
 
