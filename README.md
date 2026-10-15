@@ -51,13 +51,23 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-## 🚀 Projects
 
-- 🔐 **Microservice SSO** — Authentication and Single Sign-On using ASP.NET Core, OAuth 2.0, OpenID Connect and JWT.
-- 🧾 **Gestion de Facturation** — Billing management application developed in Java.
-- 🚗 **Location de Voiture** — Car rental application developed with TypeScript.
-- 📱 **Eco-Appmobile** — Mobile application project.
-- 🌐 **Portfolio** — [Explore my portfolio](https://hmirinsalma.github.io/Portfolio/)
+## 🚀 Featured Projects
+
+### 🔐 [Microservice SSO](https://github.com/hmirinsalma/Microservice_SSO)
+Secure authentication and Single Sign-On using C#, ASP.NET Core, OAuth 2.0, OpenID Connect and JWT.
+
+### 🧾 [Gestion de Facturation](https://github.com/hmirinsalma/Gestion-de-Facturation)
+Billing management application developed in Java.
+
+### 🚗 [Location de Voiture](https://github.com/hmirinsalma/Location-de-Voiture)
+Car rental application developed with TypeScript.
+
+### 📱 [Eco-Appmobile](https://github.com/hmirinsalma/Eco-Appmobile)
+Mobile application project.
+
+### 🌐 [Personal Portfolio](https://hmirinsalma.github.io/Portfolio/)
+Explore my portfolio, background and projects.
 
 ## 📊 GitHub
 
